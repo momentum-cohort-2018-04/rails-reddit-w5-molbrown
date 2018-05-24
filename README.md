@@ -1,6 +1,6 @@
 # Rails-Reddit
 
-Build a Rails application that works like [Reddit](https://news.ycombinator.com/), allowing users to post news links, vote for them, and comment on them.
+Build a Rails application that works like [Reddit](https://www.reddit.com/), allowing users to post news links, vote for them, and comment on them.
 
 ## Requirements
 
